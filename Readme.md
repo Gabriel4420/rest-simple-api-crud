@@ -17,7 +17,7 @@
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
   </a>
 </p>
-# 📖 DOCUMENTAÇÃO 📖
+<h2 style="text-align:center"> 📖 DOCUMENTAÇÃO 📖</h2>
 
 API de estudos sobre nodeJS do curso ministrado pelo Matheus Battisti sobre API Rest com NodeJS e MongoDB.
 
