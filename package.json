@@ -1,0 +1,24 @@
+{
+  "name": "rest-simple-api-crud",
+  "version": "1.0.0",
+  "description": "uma api de crud simples desenvolvida no curso de nodeJS do Matheus Battisti",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js localhost 3000"
+  },
+  "keywords": [
+    "api",
+    "rest-api",
+    "learning"
+  ],
+  "author": "Gabriel Rodrigues Perez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
